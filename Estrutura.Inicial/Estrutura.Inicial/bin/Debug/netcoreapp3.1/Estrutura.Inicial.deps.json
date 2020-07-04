@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estrutura.Inicial/1.0.0": {
+        "runtime": {
+          "Estrutura.Inicial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura.Inicial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

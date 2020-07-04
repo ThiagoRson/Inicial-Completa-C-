@@ -1,0 +1,13 @@
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.exe
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.deps.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.runtimeconfig.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.runtimeconfig.dev.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.dll
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\bin\Debug\netcoreapp3.1\Estrutura.Inicial.pdb
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.csprojAssemblyReference.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.csproj.CoreCompileInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.AssemblyInfoInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.AssemblyInfo.cs
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.dll
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.pdb
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\Estrutura.Inicial\Estrutura.Inicial\obj\Debug\netcoreapp3.1\Estrutura.Inicial.genruntimeconfig.cache
