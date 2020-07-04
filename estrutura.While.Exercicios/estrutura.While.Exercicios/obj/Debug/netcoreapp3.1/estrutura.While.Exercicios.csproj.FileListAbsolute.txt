@@ -1,0 +1,13 @@
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.exe
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.deps.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.runtimeconfig.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.runtimeconfig.dev.json
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.dll
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\bin\Debug\netcoreapp3.1\estrutura.While.Exercicios.pdb
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.csprojAssemblyReference.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.AssemblyInfoInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.AssemblyInfo.cs
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.dll
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.pdb
+C:\Users\Thiago e Maycon\source\repos\Udemy.Completo\estrutura.While.Exercicios\estrutura.While.Exercicios\obj\Debug\netcoreapp3.1\estrutura.While.Exercicios.genruntimeconfig.cache
